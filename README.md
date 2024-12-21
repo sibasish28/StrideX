@@ -1,4 +1,4 @@
-# AI Workout Assistant
+# StrideX
 A web application to help everyone work out wherever and whenever. Supported by the pose detection feature to analyze every pose and auto count the number of repetitions made. So, let's lead a healthy lifestyle by working out every day!
 
 ![AI Workout Assistant Thumbnail](./public/img/social-media-thumbnail.png)
